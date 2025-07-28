@@ -1,0 +1,153 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.page3{
+    display: grid;
+    grid-template-rows: 75px 304px 281px 480px 982px 650px;
+}
+.d1{
+    padding-left: 300px;
+    padding-top: 70px;
+}
+.line1{
+    font-size: 60px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.lineb1{
+    padding-top: 30px;
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(94, 92, 92);
+}
+.lineb2{
+    padding-top: 5px;
+    font-size: 14px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(166, 165, 165);
+}
+.lineb4{
+    padding-top: 40px;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.last-line{
+    width: 200px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    gap: 8px;  
+}
+.share-btn{
+    height: 25px;
+    margin-top: 42px;
+    width: 25px;
+    border: none;
+    background-color: white; 
+}
+.d2{
+    display: flex;
+    align-items: center;
+    padding-left: 300px;
+    padding-top: 10px;
+    gap: 30px;
+}
+.d2-image img{
+    width: 193px;
+    height: 193px;
+}
+.d2-text{
+    margin-bottom: 50px;
+    width: 500px;
+    display: grid;
+    gap: 5px;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+.d21{
+    font-size: 20px;
+    font-weight: 800;
+}
+.d3{
+     width: 1400px;
+     padding-left: 170px;
+     padding-top: 110px;
+}
+.d31{
+     font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300;
+    line-height: 1.4;
+    letter-spacing: 2.5;
+}
+.d4{
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+    padding-left: 300px;
+    font-size: 25px;
+    line-height: 1.1;
+    padding-top: 70px;
+    gap: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1.5;
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.d7{
+   background-color: rgb(246, 242, 242);
+
+  
+   
+}
+.d71{
+    color:black;
+    font-size: 55px;
+    width: 1000px;
+    padding-top: 30px;
+    font-weight: 600;
+     padding-left: 100px;
+
+}
+.d72{
+    color:rgb(32, 131, 194);
+    font-style: italic;
+    font-size: 22px;
+    padding-top: 20px;
+     padding-left: 100px;
+}
+.d73{ 
+     color:black;
+    display: grid;
+    grid-template-columns:300px 300px 300px 300px ;
+    padding-left: 135px;
+    padding-right: 115px;
+    padding-top: 20px;
+    margin-top: 60px;
+     padding-left: 100px;
+     gap: 20px;
+}
+.d73-child{
+    display: grid;
+    grid-template-rows: 1fr 1fr ;
+    font-size: 15.2px;
+    gap: 40px;
+    
+}
