@@ -893,7 +893,7 @@ img{
     position: absolute;
     top:0;
     left:0;
-    width: 400px;
+    width: 450px;
     height: 600px;
     object-fit: cover;
     z-index: 0; 
@@ -920,7 +920,7 @@ img{
   position: absolute;
   top: 0;
   left: 0;
-  width: 400px;
+  width: 450px;
   height: 600px;
    background-color: rgba(0, 0, 0, 0.4);
   z-index: 1;
